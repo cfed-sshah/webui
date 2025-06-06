@@ -1,7 +1,6 @@
 <template>
  <SidebarProvider>
     <AppSidebar />
-    <SidebarTrigger />
     <main>
       Hello, World!
     </main>

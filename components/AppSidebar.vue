@@ -50,5 +50,6 @@ const items = [
         </SidebarGroupContent>
       </SidebarGroup>
     </SidebarContent>
+    <SidebarRail />
   </Sidebar>
 </template>
