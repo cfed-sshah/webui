@@ -1,6 +1,9 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+ <SidebarProvider>
+    <AppSidebar />
+    <SidebarTrigger />
+    <main>
+      Hello, World!
+    </main>
+  </SidebarProvider>
 </template>
